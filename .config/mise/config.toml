@@ -1,0 +1,8 @@
+[tools]
+# https://github.com/sharkdp/fd
+fd = "latest"
+# https://github.com/junegunn/fzf
+fzf = "latest"
+go = "latest"
+node = "lts"
+pnpm = "latest"
